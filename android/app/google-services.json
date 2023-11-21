@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268045276196",
+    "project_id": "viwall",
+    "storage_bucket": "viwall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268045276196:android:4ef05ec34ae8bc4509b4b1",
+        "android_client_info": {
+          "package_name": "com.example.via_wall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ilpVvWPk9S_sySkr7CCdO9Yo7jzpFL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
